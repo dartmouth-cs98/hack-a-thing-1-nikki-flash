@@ -61,7 +61,6 @@
 		D714101021E5501C005F0AF4 = {
 			isa = PBXGroup;
 			children = (
-				D7815C7A21E67E8900DC3653 /* RatingControl.swift */,
 				D714101B21E5501C005F0AF4 /* Food Reviewer */,
 				D714103021E5501E005F0AF4 /* Food ReviewerTests */,
 				D714101A21E5501C005F0AF4 /* Products */,
@@ -81,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				D714101C21E5501C005F0AF4 /* AppDelegate.swift */,
+				D7815C7A21E67E8900DC3653 /* RatingControl.swift */,
 				D714101E21E5501C005F0AF4 /* ViewController.swift */,
 				D714102021E5501C005F0AF4 /* Main.storyboard */,
 				D714102321E5501E005F0AF4 /* Assets.xcassets */,
